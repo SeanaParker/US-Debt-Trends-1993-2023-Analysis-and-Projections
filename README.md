@@ -14,7 +14,7 @@
 ---
 
 ## Project Background
-Managing public debt is essential to a nation's financial stability and long-term economic growth. I’m working with a small debt agency in Washington, DC, that specializes in analyzing and forecasting public and private debt. Our team has been asked by the U.S. Government to conduct a comprehensive review of public debt from 1993 to 2023, focusing on annual debt growth, seasonal borrowing trends, and future projections.
+Managing public debt is essential to a nation's financial stability and long-term economic growth. To better understand how debt has evolved over time, I’m partnering with a small debt agency in Washington, DC, that specializes in analyzing and forecasting public and private debt. Our team has been asked by the U.S. Government to conduct a comprehensive review of public debt from 1993 to 2023, exploring annual debt growth, seasonal borrowing patterns, and future projections. 
 
 This analysis aims to answer the following key questions:
 - **How much has debt increased each year compared to the previous year?**
