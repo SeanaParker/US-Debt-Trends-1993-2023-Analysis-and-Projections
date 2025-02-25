@@ -23,8 +23,6 @@ This analysis aims to answer the following key questions:
 
 To conduct this analysis, I used Excel to clean and structure the data, create pivot tables for trend analysis, and summarize key findings in a final output sheet with insights and visualizations.
 
-The Excel workbooks used for data inspection and cleaning can be accessed here.
-
 ---
 
 ## Data Structure & Initial Checks
@@ -92,3 +90,5 @@ Throughout the analysis, a few assumptions and caveats were noted:
 - Debt Held by the Public and Total Public Debt Outstanding were initially reported annually from 1997 to 2001, then shifted to monthly reporting from 2002 to 2005, before transitioning to more frequent, often daily, reporting. These changes in reporting frequency may impact trend analysis, particularly in earlier years.
 
 ---
+The Excel workbook used for data inspection and cleaning can be accessed here.
+For more of my projects and data journey, visit my portfolio website and reach out!
