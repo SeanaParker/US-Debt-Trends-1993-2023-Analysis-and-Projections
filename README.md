@@ -77,10 +77,10 @@ U.S. public debt grew at an average annual rate of 5.13% from 2016 to 2019 befor
 
 ## Recommendations
 Based on the findings above, I would recommend the following:
-1. Developing a long-term debt strategy to manage borrowing more effectively and reduce financial risks.
-2. Adjusting budget planning for seasonal debt fluctuations to ensure efficient allocation of resources throughout the year.
-3. Tracking key economic indicators like inflation, unemployment, and GDP to anticipate their impact on debt levels.
-4. Improving debt forecasting models by incorporating broader economic factors for more accurate projections.
+1. Develop a long-term debt strategy by setting borrowing limits, prioritizing debt repayment, and adjusting policies to keep debt growth manageable.
+2. Plan for seasonal debt fluctuations by preparing for high-borrowing periods in January, November, and December.
+3. Monitor economic indicators like inflation, unemployment, and GDP to anticipate shifts in borrowing needs and adjust policies accordingly.
+4. Improve debt forecasting by using historical trends and economic conditions to create more accurate projections.
 
 ---
 
