@@ -73,6 +73,8 @@ Total public debt has steadily increased, growing at an average annual rate of 5
 
 - Future debt growth is projected to settle between 5-7% per year, but factors like inflation, interest rate changes, and policy shifts could impact this outlook. Close monitoring of these variables will be key to understanding where debt levels are headed.
 
+  <img src="Visualizations/Debt_growth_Rate.png" alt="Debt Growth Rate" width="600">
+
 ---
 
 ## Recommendations
