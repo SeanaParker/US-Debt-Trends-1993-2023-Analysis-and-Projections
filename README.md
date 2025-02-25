@@ -60,7 +60,7 @@ Total public debt has steadily increased, growing at an average annual rate of 5
 - Debt tends to rise the most in January, November, and December, likely due to increased federal spending, and higher consumer activity during the holiday season.
 - April through July tend to see the lowest increases in debt, which may be attributed to tax revenues reducing borrowing needs, and fewer major holidays driving debt growth.
 - These patterns suggest that debt accumulation follows predictable fiscal cycles rather than occurring at random throughout the year.
-
+    <img src="Visualizations/Mnth_Debt_Inc_Trends.png" alt="Monthly Debt Increase Trends" width="625">
 ---
 
 ### **Projected Debt Growth**
