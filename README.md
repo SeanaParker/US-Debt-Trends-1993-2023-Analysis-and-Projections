@@ -90,5 +90,6 @@ Throughout the analysis, a few assumptions and caveats were noted:
 - Debt Held by the Public and Total Public Debt Outstanding were initially reported annually from 1997 to 2001, then shifted to monthly reporting from 2002 to 2005, before transitioning to more frequent, often daily, reporting. These changes in reporting frequency may impact trend analysis, particularly in earlier years.
 
 ---
-The Excel workbook used for data inspection and cleaning can be accessed here.
+The Excel workbook used for data inspection and cleaning can be accessed [here](Exploration/U.S._Debt_Trends_Data_Cleaning_and_EDA.xlsx).
+
 For more of my projects and data journey, visit my portfolio website and reach out!
