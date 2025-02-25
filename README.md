@@ -69,7 +69,7 @@ Total public debt has steadily increased, growing at an average annual rate of 5
 - Public debt has grown significantly over the past two decades, rising from $6 trillion in 2008 to $25 trillion in 2022. This increase reflects a combination of economic downturns, policy decisions, and rising government spending.
 - If borrowing continues at the current pace, public debt is expected to hit $33 trillion by 2027. While the rate of growth is expected to slow, overall debt levels remain on an upward trajectory.
 
-    <img src="Visualizations/Publicly_Held_Debt_Growth.png" alt="Publicly Held Debt Growth" width="600">
+    <img src="Visualizations/publicly_held_debt_growth.png" alt="Publicly Held Debt Growth" width="600">
 
 - Future debt growth is projected to settle between 5-7% per year, but factors like inflation, interest rate changes, and policy shifts could impact this outlook. Close monitoring of these variables will be key to understanding where debt levels are headed.
 
