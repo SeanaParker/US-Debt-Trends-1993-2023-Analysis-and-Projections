@@ -1,4 +1,4 @@
-# US Debt Trends (1993-2023): Growth Analysis and Projections with Excel
+# US Debt Trends (1993-2023): Growth Analysis and Projections
 
 ## Table of Contents
 - [Project Background](#project-background)
