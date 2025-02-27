@@ -14,20 +14,21 @@
 ---
 
 ## Project Background
-Managing public debt is essential to a nation's financial stability and long-term economic growth. To better understand how debt has evolved over time, I’m partnering with a small debt agency in Washington, DC, that specializes in analyzing and forecasting public and private debt. Our team has been asked by the U.S. Government to conduct a comprehensive review of public debt from 1993 to 2023, exploring annual debt growth, seasonal borrowing patterns, and future projections. 
+Understanding how debt has evolved over time is crucial for financial planning and policy decisions. In this case study, I take on the role of a data analyst working with a small debt agency in Washington, DC, to review public debt trends from 1993 to 2023. The goal is to analyze annual debt growth, seasonal borrowing patterns, and forecast future trends to support financial analysts and policymakers in making informed decisions.
 
-This analysis aims to answer the following key questions:
+This analysis focuses on three key questions:
 - **How much has debt increased each year compared to the previous year?**
 - **Which months historically see the highest and lowest increases in total debt?**
 - **What is the projected growth of publicly held debt in the next few years?**
 
-To conduct this analysis, I used Excel to clean and structure the data, create pivot tables for trend analysis, and summarize key findings in a final output sheet with insights and visualizations.
+The Excel workbook, which includes data cleaning and exploratory analysis, is available for review [here](https://github.com/SeanaParker/US-Debt-Trends-1993-2023-Analysis-and-Projections/tree/main/Exploration)
+
 
 ---
 
 ## Data Structure & Initial Checks
 
-The dataset consists of three primary components:
+The dataset contains 7,495 records and includes four primary fields:
 
 - **Debt Held by the Public**: The portion of the US public debt held by individuals, corporations, foreign governments, and entities outside of the US government.
 - **Intergovernmental Holdings**: The portion of the US public debt held by various US government agencies.
