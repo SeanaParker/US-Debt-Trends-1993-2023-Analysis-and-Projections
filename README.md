@@ -42,7 +42,7 @@ The dataset contains 7,495 records and includes four primary fields:
 ---
 
 ## Executive Summary
-U.S. public debt grew at an average annual rate of 5.13% from 2016 to 2019 before rising 19.6% in 2020 due to federal stimulus measures in response to the COVID-19 pandemic. While growth slowed after 2020, it remains above pre-pandemic levels, driven by ongoing federal spending. Debt tends to increase the most in January, November, and December, while April through July typically see slower growth due to tax revenues reducing borrowing needs. At the current pace, total public debt is projected to reach $33 trillion by 2027, though inflation, interest rates, and fiscal policy decisions could alter this trajectory.
+U.S. public debt grew at an average of 5.13% annually from 2016 to 2019 before surging 19.6% in 2020. Growth has slowed since then but remains higher than pre-2020 levels. Debt tends to rise the most in January, November, and December, while April through July typically see slower increases. At the current pace, total public debt could reach $33 trillion by 2027, though factors like inflation, interest rates, and fiscal policy may impact this projection.
 
 ---
 
