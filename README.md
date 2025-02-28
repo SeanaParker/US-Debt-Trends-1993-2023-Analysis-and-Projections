@@ -27,12 +27,11 @@ The Excel workbook, which includes data cleaning and exploratory analysis, is av
 ---
 
 ## Data Structure & Initial Checks
-
-The dataset contains 7,495 records and includes four primary fields:
-
-- **Debt Held by the Public**: The portion of the US public debt held by individuals, corporations, foreign governments, and entities outside of the US government.
-- **Intergovernmental Holdings**: The portion of the US public debt held by various US government agencies.
-- **Total Public Debt Outstanding**: The sum of the debt held by the public and intergovernmental holdings.
+The dataset contains 7,495 records and includes four primary fields:
+- `Record Date`: The date associated with each recorded debt value.
+- `Debt Held by the Public`: The portion of the US public debt held by individuals, corporations, foreign governments, and entities outside of the US government.
+- `Intergovernmental Holdings`: The portion of the US public debt held by various US government agencies.
+- `Total Public Debt Outstanding`: The sum of the debt held by the public and intergovernmental holdings.
 
 ### **Data Cleaning Steps:**
 - Removed duplicate entries based on `Record Date`.
