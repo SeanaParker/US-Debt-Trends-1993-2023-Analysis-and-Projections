@@ -52,7 +52,7 @@ U.S. public debt grew at an average of 5.13% annually from 2016 to 2019 before s
 - In 2020, total public debt saw a sharp 19.6% increase, largely due to a 25.99% jump in Debt Held by the Public, while Intergovernmental Holdings barely grew at 1.40%. This surge was a direct response to the COVID-19 pandemic, as the government issued stimulus packages and emergency funding that significantly increased borrowing.
 - While debt growth slowed after 2020, it remained higher than pre-pandemic levels, averaging 6.42% annually (compared to 5.13% pre-pandemic). This suggests that debt accumulation has not fully returned to pre-pandemic trends, possibly due to continued federal spending and efforts to support economic recovery.
   
-    <img src="Visualizations/Annual_Perc_Change_US_Public_Debt.png" alt="Annual Percentage Change in U.S. Public Debt" width="625">
+    <img src="Visualizations/Annual_Perc_Change_US_Public_Debt.png" alt="Annual Percentage Change in U.S. Public Debt" width="650">
 
 ---
 
@@ -68,11 +68,11 @@ U.S. public debt grew at an average of 5.13% annually from 2016 to 2019 before s
 - Public debt has grown significantly over the past two decades, rising from $6 trillion in 2008 to $25 trillion in 2022. This increase reflects a combination of economic downturns, policy decisions, and rising government spending.
 - If borrowing continues at the current pace, public debt is expected to hit $33 trillion by 2027. While the rate of growth is expected to slow, overall debt levels remain on an upward trajectory.
 
-    <img src="Visualizations/publicly_held_debt_growth.png" alt="Publicly Held Debt Growth" width="600">
+    <img src="Visualizations/publicly_held_debt_growth.png" alt="Publicly Held Debt Growth" width="650">
 
 - Future debt growth is projected to settle between 5-7% per year, but factors like inflation, interest rate changes, and policy shifts could impact this outlook. Close monitoring of these variables will be key to understanding where debt levels are headed.
 
-  <img src="Visualizations/Debt_growth_Rate.png" alt="Debt Growth Rate" width="600">
+  <img src="Visualizations/Debt_growth_Rate.png" alt="Debt Growth Rate" width="650">
 
 ---
 
