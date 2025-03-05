@@ -1,4 +1,4 @@
-# US Debt Trends (1993-2023): Growth Analysis and Projections
+# Understanding U.S. Debt: 30 Years of Trends and What’s Ahead (1993-2023)
 
 ## Table of Contents
 - [Project Background](#project-background)
