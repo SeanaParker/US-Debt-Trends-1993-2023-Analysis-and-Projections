@@ -14,7 +14,7 @@
 ---
 
 ## Project Background
-Understanding how debt has evolved over time is crucial for financial planning and policy decisions. In this case study, I take on the role of a data analyst working with a small debt agency in Washington, DC, to review public debt trends from 1993 to 2023. The goal is to analyze annual debt growth, seasonal borrowing patterns, and forecast future trends to support financial analysts and policymakers in making informed decisions.
+Understanding how debt has evolved over time is crucial for financial planning and policy decisions. In this case study, I take on the role of a data analyst partnering with a small debt agency in Washington, DC, to review public debt trends from 1993 to 2023. The goal is to analyze annual debt growth, seasonal borrowing patterns, and forecast future trends to support financial analysts and policymakers in making informed decisions.
 
 This analysis focuses on three key questions:
 - **How much has debt increased each year compared to the previous year?**
