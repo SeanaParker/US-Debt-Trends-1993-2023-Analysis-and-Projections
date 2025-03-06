@@ -16,7 +16,7 @@
 ## Project Background
 Understanding how public debt has evolved over time is essential for financial planning and policy decisions. In this case study, I take on the role of a data analyst partnering with a small debt agency in Washington, DC, to examine public debt trends from 1993 to 2023. This analysis explores annual debt growth, seasonal borrowing patterns, and future projections, providing financial analysts and policymakers with data-driven insights for informed decision-making. The dataset used in this study is sourced from the U.S. Treasury's official website.
 
-This analysis focuses on three key questions:
+This analysis focuses on answering three key questions:
 - **How much has debt increased each year compared to the previous year?**
 - **Which months historically see the highest and lowest increases in total debt?**
 - **What is the projected growth of publicly held debt in the next few years?**
