@@ -42,6 +42,7 @@ The dataset contains 7,495 records and includes four primary fields:
 
 ## Executive Summary
 U.S. public debt grew significantly from 2016 to 2020, with a sharp 19.6% increase in 2020, likely driven by the pandemic and stimulus measures. While growth has slowed, it remains elevated compared to pre-pandemic levels, with seasonal spikes occurring in the final months of each year. If current trends continue, U.S. public debt could reach $33 trillion by 2027, with growth stabilizing between 5-7% annually.
+
 ---
 
 ## Insights Deep Dive
