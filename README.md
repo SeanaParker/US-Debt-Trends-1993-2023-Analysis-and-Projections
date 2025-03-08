@@ -76,11 +76,11 @@ U.S. public debt grew significantly from 2016 to 2020, with a sharp 19.6% increa
 ---
 
 ## Recommendations
-Based on the findings above, I would recommend financial analysts and policymakers consider the following:
-- A clear debt strategy is crucial for future financial stability. By setting clear borrowing limits each year and aiming to slow down debt growth by 5%, we can avoid accumulating debt at an unsustainable pace."
-- Debt tends to spike at the end of the year, so it’s important to plan for this ahead of time. Setting aside $200 billion in extra borrowing capacity would help the U.S. manage these seasonal increases without unnecessary stress on the budget.
-- By regularly monitoring inflation, unemployment, and GDP, we can adjust borrowing policies more effectively. For example, if inflation exceeds 3%, we might need to reconsider the pace of borrowing to avoid further debt accumulation.
-- Improving debt forecasting models would help make more accurate projections for the coming years. Aiming for just a 10% increase in forecast accuracy over the next 2 years could lead to better fiscal planning and fewer surprises.
+Based on the findings, I recommend that financial analysts and policymakers consider the following:
+- Establishing a clear debt strategy is key for future stability. By setting annual borrowing limits and aiming to slow debt growth by 5%, we can prevent unsustainable debt accumulation.
+- Since debt tends to spike at the end of the year, planning ahead is critical. Setting aside $200 billion in extra borrowing capacity will help manage these seasonal increases without straining the budget.
+- Regularly monitoring inflation, unemployment, and GDP will enable more effective adjustments to borrowing policies. For instance, if inflation exceeds 3%, we may need to reconsider the pace of borrowing to curb further debt growth.
+- Improving debt forecasting models will enhance accuracy in projections. Aiming for just a 10% increase in forecast accuracy over the next two years could result in better fiscal planning and fewer unexpected financial challenges.
 
 ---
 
